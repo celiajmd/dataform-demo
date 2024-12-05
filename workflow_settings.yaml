@@ -1,0 +1,5 @@
+defaultProject: mayo-pso-pocs
+defaultLocation: US
+defaultDataset: dataform_test
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
